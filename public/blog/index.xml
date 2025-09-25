@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Søren Daugbjerg</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://sorendb.dk/blog/</link>
     <description>Recent content in Blogs on Søren Daugbjerg</description>
     <generator>Hugo</generator>
     <language>en-dk</language>
     <lastBuildDate>Thu, 25 Sep 2025 14:54:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sorendb.dk/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/blog/my-first-post/</link>
+      <link>https://sorendb.dk/blog/my-first-post/</link>
       <pubDate>Thu, 25 Sep 2025 14:54:33 +0200</pubDate>
-      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <guid>https://sorendb.dk/blog/my-first-post/</guid>
       <description>&lt;h1 id=&#34;my-first-post&#34;&gt;&#xA;  My First Post&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-first-post&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
   </channel>
