@@ -1,0 +1,26 @@
+baseURL = 'https://sorendb.dk/'
+languageCode = 'en-dk'
+title = 'Søren Daugbjerg'
+theme = 'hugo-coder'
+
+# Menu Items
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "blog/"
+
+# Social Links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/sorendaugbjerg/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin-in fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/sorendaugbjerg/"

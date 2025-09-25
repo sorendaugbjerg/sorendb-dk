@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Søren Daugbjerg</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Søren Daugbjerg</description>
+    <generator>Hugo</generator>
+    <language>en-dk</language>
+    <lastBuildDate>Thu, 25 Sep 2025 15:17:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 25 Sep 2025 15:17:51 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 25 Sep 2025 14:54:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;&#xA;  My First Post&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-first-post&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
