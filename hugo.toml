@@ -3,6 +3,10 @@ languageCode = 'en-dk'
 title = 'Søren Daugbjerg'
 theme = 'hugo-coder'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Menu Items
 [[menu.main]]
   name = "About"
